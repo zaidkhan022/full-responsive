@@ -1,0 +1,21 @@
+.below-nav{
+  background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.5)), url("./images/istockphoto-938171020-612x612.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 400px;
+}
+.footer a{
+  text-decoration: none;
+  color: black;
+}
+.subs-inp{
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+}
+.subs{
+  border: none;
+  border-bottom: 1px solid black;
+  background-color: #fff;
+}
